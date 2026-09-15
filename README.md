@@ -1,7 +1,6 @@
 # Breast Cancer Predictor
 
-A runnable, educational machine-learning project inspired by the referenced
-repository's workflow. It predicts whether a tumour is **malignant** or
+A runnable, educational machine-learning project . It predicts whether a tumour is **malignant** or
 **benign** from five diagnostic measurements using the Wisconsin Diagnostic
 Breast Cancer data bundled with scikit-learn.
 
